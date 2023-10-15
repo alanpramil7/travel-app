@@ -35,4 +35,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deployed site
 
-Check the deployed site [here]()
+Check the deployed site [here](https://alan-pramil-travel-app.netlify.app/)
